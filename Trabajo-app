@@ -1,0 +1,2 @@
+# Crear un diccionario vacío para almacenar los datos de la canción
+cancion = {}

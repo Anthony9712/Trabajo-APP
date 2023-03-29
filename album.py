@@ -29,5 +29,5 @@ cancion['Cantante'] = cantantes
 cancion['Álbum'] = albumes
 cancion['Año de lanzamiento'] = años_lanzamiento
 
-# Imprimir los datos de la canción
+# mostramos los datos de la canción
 print(cancion)

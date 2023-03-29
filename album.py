@@ -29,9 +29,14 @@ cancion['Cantante'] = cantantes
 cancion['Álbum'] = albumes
 cancion['Año de lanzamiento'] = años_lanzamiento
 
+<<<<<<< HEAD
 # Imprimir los datos de la canción
 print(cancion)
 
 #buscar artista 
 cantante_name = 'Nombre del cantante'
 cancion_name = 'Nombre del cancion'
+=======
+# mostramos los datos de la canción
+print(cancion)
+>>>>>>> 66e013b8b01799070a0510f0ab1732988114903e

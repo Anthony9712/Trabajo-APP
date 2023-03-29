@@ -1,0 +1,8 @@
+# Crear un diccionario vacío para almacenar los datos de la canción
+cancion = {}
+# Crear listas vacías para almacenar los nombres de canciones, autores, cantantes, álbumes y años de lanzamiento
+nombres_canciones = []
+autores = []
+cantantes = []
+albumes = []
+años_lanzamiento = []

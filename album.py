@@ -29,7 +29,9 @@ cancion['Cantante'] = cantantes
 cancion['Álbum'] = albumes
 cancion['Año de lanzamiento'] = años_lanzamiento
 
-#Julio se la come entera
-
 # Imprimir los datos de la canción
 print(cancion)
+
+#buscar artista 
+cantante_name = 'Nombre del cantante'
+cancion_name = 'Nombre del cancion'
